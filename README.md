@@ -23,3 +23,6 @@
 
 ## 涉及的相关算法代码
 sklearn、keras、pytorch、tensorflow有相关算法代码和使用方法。
+
+## 论文参考
+* Forecasting of Jump Arrivals in Stock Prices: New Attention-based Network Architecture using Limit Order Book Data  
