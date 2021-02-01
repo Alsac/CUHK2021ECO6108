@@ -18,7 +18,7 @@
 
 ## 涉及的特征
 1. ohlcv、盘口数据。 会提供数据
-2. alpha101、191因子。若有需要可以提供因子代码
+2. alpha101因子。[URL]（https://github.com/Alsac/alpha101）  
 3. 其他
 
 
