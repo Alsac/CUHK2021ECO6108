@@ -4,12 +4,12 @@
 
 ## 基于同一市场，不同算法的比较  
 
-采用不同的算法方法。
+#### 市场微结构研究方式比较
 
 
 ## 基于同一算法，不同市场的比较   
 
-不同市场指期货与现货，或者中国市场与美日韩市场的比较。
+#### a股沪深300指数和沪深300期货主力连续的比较研究市场微结构特点
 
 
 ## 相关数据  
@@ -22,7 +22,7 @@
 
 ## 相关算法  
 
-1. 规则、ML类、MLP、RNN、CNN、Attention类算法等。
+1. xgboost、randomforest、DL等。
 
 
 ## 相关特征  
@@ -40,6 +40,6 @@ sklearn、keras、pytorch、tensorflow有相关算法代码和使用方法。
 ## 论文参考  
 
 * Learning multi-market microstructure from orderbook data. [pdf](https://github.com/Alsac/CUHK2021ECO6108/blob/main/papers/Learning%20multi-market%20microstructure%20from%20orderbook%20data.pdf)
-* Forecasting of Jump Arrivals in Stock Prices: New Attention-based Network Architecture using Limit Order Book Data. [pdf](https://github.com/Alsac/CUHK2021ECO6108/blob/main/papers/Forecasting%20of%20Jump%20Arrivals%20in%20Stock%20Prices%20NewAttention-based%20Network%20Architecture%20using%20Limit%20OrderBook%20Data.pdf)  
+
 
 
